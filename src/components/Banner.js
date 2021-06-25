@@ -15,7 +15,7 @@ function Banner() {
         <img
           className=" sm:w-full sm:h-full object-cover w-180"
           src="../images/banner.jpg"
-          alt="banner image"
+          alt="banner img"
         />
       </div>
     </div>
