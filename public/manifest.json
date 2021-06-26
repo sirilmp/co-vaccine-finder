@@ -1,6 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "covid vaccine finder",
+  "short_name": "co-finder",
+  "theme_color": "#000",
+  "background_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src":"maskable_icon.png",
@@ -23,9 +28,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
